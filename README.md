@@ -37,51 +37,51 @@ The dashboard allows users to **compare Healthy vs Damaged conditions** and obse
 
 ### 🔹 Healthy – Lungs View
 
-![Healthy Lungs](images/healthy_lungs)
+![Healthy Lungs](images/lungs_healthy_view.png)
 
 ### 🔹 Damaged – Lungs View
 
-![Damaged Lungs](images/damaged_lungs)
+![Damaged Lungs](images/lungs_damaged_view.png)
 
 ---
 
 ### 🔹 Healthy – Liver View
 
-![Healthy Liver](images/healthy_liver)
+![Healthy Liver](images/liver_healthy_view.png)
 
 ### 🔹 Damaged – Liver View
 
-![Damaged Liver](images/damaged_liver)
+![Damaged Liver](images/liver_damaged_view.png)
 
 ---
 
 ### 🔹 Healthy – Kidney View
 
-![Healthy Kidney](images/healthy_kidney)
+![Healthy Kidney](images/kidney_healthy_view.png)
 
 ### 🔹 Damaged – Kidney View
 
-![Damaged Kidney](images/damaged_kidney)
+![Damaged Kidney](images/kidney_damaged_view.png)
 
 ---
 
 ### 🔹 Healthy – Human Body Overview
 
-![Healthy Human Body](images/healthy_human_body)
+![Healthy Human Body](images/healthy_body.png)
 
 ### 🔹 Damaged – Human Body Overview
 
-![Damaged Human Body](images/damaged_human_body)
+![Damaged Human Body](images/full_body_smoking_impact.png)
 
 ---
 
 ### 🔹 Healthy – Heart View
 
-![Healthy Heart](images/healthy_heart)
+![Healthy Heart](images/heart_healthy_view.png)
 
 ### 🔹 Damaged – Heart View
 
-![Damaged Heart](images/damaged_heart)
+![Damaged Heart](images/heart_damaged_view.png)
 
 ---
 
