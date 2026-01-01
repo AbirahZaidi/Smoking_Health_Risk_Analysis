@@ -24,12 +24,12 @@ The dashboard allows users to **compare Healthy vs Damaged conditions** and obse
 
 ## 🧠 Dashboard Features
 
-* **Total Patient Count** with comparison to average age & BMI
-* **Smoking Status Distribution** (Donut Chart)
-* **Smoking Status by Gender**
-* **Smoking Duration & Daily Intake** by age group
-* **Cholesterol & Hypertension Risk Analysis**
-* **Organ-based visual indicators** (Healthy vs Damaged)
+* **Total Patient Count** with comparison to **average age and BMI**
+* **Smoking Status Distribution** using a **Donut Chart**
+* **Smoking Status by Gender** to highlight behavioral differences
+* **Smoking Duration & Daily Intake** analysis across **different age groups**
+* **Cholesterol & Hypertension Risk Analysis** by age category
+* **Organ-based visual indicators** showing **Healthy vs Damaged** conditions
 
 ---
 
@@ -37,51 +37,51 @@ The dashboard allows users to **compare Healthy vs Damaged conditions** and obse
 
 ### 🔹 Healthy – Lungs View
 
-![Healthy Lungs](images/healthy_lungs.png)
+![Healthy Lungs](images/healthy_lungs)
 
 ### 🔹 Damaged – Lungs View
 
-![Damaged Lungs](images/damaged_lungs.png)
+![Damaged Lungs](images/damaged_lungs)
 
 ---
 
 ### 🔹 Healthy – Liver View
 
-![Healthy Liver](images/healthy_liver.png)
+![Healthy Liver](images/healthy_liver)
 
 ### 🔹 Damaged – Liver View
 
-![Damaged Liver](images/damaged_liver.png)
+![Damaged Liver](images/damaged_liver)
 
 ---
 
 ### 🔹 Healthy – Kidney View
 
-![Healthy Kidney](images/healthy_kidney.png)
+![Healthy Kidney](images/healthy_kidney)
 
 ### 🔹 Damaged – Kidney View
 
-![Damaged Kidney](images/damaged_kidney.png)
+![Damaged Kidney](images/damaged_kidney)
 
 ---
 
 ### 🔹 Healthy – Human Body Overview
 
-![Healthy Human Body](images/healthy_human_body.png)
+![Healthy Human Body](images/healthy_human_body)
 
 ### 🔹 Damaged – Human Body Overview
 
-![Damaged Human Body](images/damaged_human_body.png)
+![Damaged Human Body](images/damaged_human_body)
 
 ---
 
 ### 🔹 Healthy – Heart View
 
-![Healthy Heart](images/healthy_heart.png)
+![Healthy Heart](images/healthy_heart)
 
 ### 🔹 Damaged – Heart View
 
-![Damaged Heart](images/damaged_heart.png)
+![Damaged Heart](images/damaged_heart)
 
 ---
 
@@ -99,10 +99,22 @@ The dashboard allows users to **compare Healthy vs Damaged conditions** and obse
 ```
 Smoking-Health-Risk-Analysis/
 │
-├── images/                 # Dashboard screenshots
-├── Dataset                 # data
-├── Smoking_Health_Risk_Analysis.pbit     # Power BI template file
-└── README.md               # Project documentation
+├── Dataset/                          # Dataset used for analysis
+│   └── smoking_health_data.csv      # Patient smoking & health records
+│
+├── images/                           # Dashboard screenshots (used in README)
+│   ├── healthy_lungs.png
+│   ├── damaged_lungs.png
+│   ├── heart_analysis.png
+│   ├── kidney_analysis.png
+│   └── liver_analysis.png
+│
+├── Background Viz.png                # Custom background design used in Power BI
+│
+├── Smoking_Health_Risk_Analysis.pbit # Power BI template file
+│
+└── README.md                         # Project documentation
+
 ```
 
 ---
